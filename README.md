@@ -20,7 +20,8 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-![Screenshot 2023-01-03 202439](https://user-images.githubusercontent.com/107729218/210484418-4a4db4f4-ea31-4047-bfc3-eb833f578425.png)
+![Screenshot 2023-01-07 160016](https://user-images.githubusercontent.com/107729218/211174670-8d996ff2-6499-457c-a9bd-b2c9a0941375.png)
+
 # Usage
 Deployment [here]
 (https://luisvilla315.github.io/Work-Day-Scheduler/)
